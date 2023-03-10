@@ -1,0 +1,54 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 20px 0 0 50px;
+  font-family: "Lato", sans-serif;
+}
+
+#quiz {
+  margin-left: 10px;
+  background: #d2def2;
+  padding: 10px 20px 10px 20px;
+  width: 500px;
+  border-radius: 20px;
+  float: left;
+}
+
+.card-body {
+  background: #d2def2;
+}
+
+.card-header {
+  font-size: xx-large;
+  font-weight: 700;
+  margin-left: 30px;
+}
+
+#textbook{
+    width: 300px;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+
+#button {
+  margin-bottom: 15px;
+}
+
+#after_submit {
+  visibility: hidden;
+  background: #8ab909;
+  padding: 10px 20px 10px 20px;
+  width: 500px;
+  border-radius: 20px;
+  float: left;
+  margin-left: 20px;
+  font-size: 30px;
+  height: 550px;
+}
+
+#picture {
+    width: 450px;
+    height: 350px;
+}
